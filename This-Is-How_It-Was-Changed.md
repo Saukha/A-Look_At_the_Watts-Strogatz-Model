@@ -10,5 +10,5 @@ Figer 2. When all connections are randomly changed.
 
 <img src="https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_resulting_graph_big.png " height="200" width="200"> 
 
-This is how I do that:
+This is how the world was changed:
 https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_final_from_gml.py
