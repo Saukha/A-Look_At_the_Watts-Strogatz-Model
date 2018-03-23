@@ -1,6 +1,5 @@
 ## Original Graph
-
-Figure 1. When there are 100 people each connected to 6 nearest neighbors. 
+Figure 1. When there are 100 people, each connected to 6 nearest neighbors. 
 
 <img src="https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_original_graph_big.png " height="300" width="300"> 
 
