@@ -7,10 +7,11 @@ This produces a clustered network, but it is a large world. They randomly rewire
 Investigate this claim by WS. Start with nearest neighbor network (provided) of 100 nodes, where each node connects to its 6 nearest neighbors (similar to Fig. 1).  <br />
 
 Figure 1.  Each node connects with nearest neighbors. This produces a clustered but large-world network.  <br />
-<img src="   " />
+<img src="https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_fig1.png" height="200" width="200" />
 
-Figure 2. Network with rewired links (red). This is a clustered, small world network. (Note, red links in image were added not rewired.  <br />
-<img src="   " />
+Figure 2. Network with rewired links (red). This is a clustered, small world network.  <br /> 
+(Note, red links in image were added not rewired.  <br />
+<img src="https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_fig2.png" height="200" width="200" />
 
 
 a) Calculate the average clustering coefficient and average path length of this network C(ave) and D(ave). <br />
