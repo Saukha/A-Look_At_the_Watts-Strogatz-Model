@@ -10,4 +10,4 @@ Figer 2. When all connections are randomly changed.
 <img src="https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_resulting_graph_big.png " height="300" width="300"> 
 
 This is how the world was changed:
-https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_final_from_gml.py
+https://github.com/Saukha/A-Look_At_the_Watts-Strogatz-Model/blob/master/problem3_one_round_only.py
